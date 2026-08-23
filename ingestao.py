@@ -89,7 +89,7 @@ DATA_INGESTAO = datetime.now().strftime("%Y-%m-%d")
 
 ARQUIVOS = {
     "pedidos.csv": {
-        "origem": "dados/pedidos.csv",
+        "origem": "Dados/pedidos.csv",
         "destino": f"raw/pedidos/ingest_date={DATA_INGESTAO}/pedidos.csv"
     },
     "clientes.json": {
