@@ -93,11 +93,11 @@ ARQUIVOS = {
         "destino": f"raw/pedidos/ingest_date={DATA_INGESTAO}/pedidos.csv"
     },
     "clientes.json": {
-        "origem": "dados/clientes.json",
+        "origem": "Dados/clientes.json",
         "destino": f"raw/clientes/ingest_date={DATA_INGESTAO}/clientes.json"
     },
     "produtos.csv": {
-        "origem": "dados/produtos.csv",
+        "origem": "Dados/produtos.csv",
         "destino": f"raw/produtos/ingest_date={DATA_INGESTAO}/produtos.csv"
     }
 }
