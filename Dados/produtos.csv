@@ -1,0 +1,1001 @@
+produto_id,nome,categoria,preco
+9001,Headset,Informatica,402.78
+9002,Jaqueta,Vestuario,965.81
+9003,Camera,Eletronicos,5117.29
+9004,Colchao,Moveis,796.46
+9005,Jaqueta,Vestuario,536.5
+9006,Cama,Moveis,1556.26
+9007,Liquidificador,Cozinha,235.93
+9008,Jaqueta,Vestuario,881.42
+9009,Liquidificador,Cozinha,279.27
+9010,Guarda Roupa,Moveis,4974.35
+9011,Fone de Ouvido,Eletronicos,1466.74
+9012,Air Fryer,Eletrodomesticos,565.96
+9013,Jogo de Pratos,Cozinha,572.49
+9014,Fogao,Eletrodomesticos,2443.28
+9015,Panela,Cozinha,212.64
+9016,Aspirador de Po,Eletrodomesticos,1415.02
+9017,Fone de Ouvido,Eletronicos,1394.15
+9018,Oculos de Sol,Acessorios,303.87
+9019,Calca Jeans,Vestuario,317.46
+9020,Air Fryer,Eletrodomesticos,1027.6
+9021,Carteira,Acessorios,183.25
+9022,Aspirador de Po,Eletrodomesticos,1751.96
+9023,Guarda Roupa,Moveis,2776.47
+9024,Mesa,Moveis,1421.56
+9025,Relogio,Acessorios,2770.17
+9026,Smartwatch,Eletronicos,702.22
+9027,Geladeira,Eletrodomesticos,4967.03
+9028,Caneta,Papelaria,15.93
+9029,Armario,Moveis,3460.78
+9030,Monitor,Informatica,2080.87
+9031,Impressora,Informatica,1026.19
+9032,Liquidificador,Eletrodomesticos,310.78
+9033,Colchao,Moveis,1636.8
+9034,Liquidificador,Cozinha,627.28
+9035,Smartphone,Eletronicos,3170.01
+9036,Panela,Cozinha,582.21
+9037,Camisa,Vestuario,245.29
+9038,Panela,Cozinha,282.02
+9039,Caneta,Papelaria,9.35
+9040,Tablet,Eletronicos,905.5
+9041,Calca Jeans,Vestuario,205.06
+9042,Fogao,Eletrodomesticos,3867.8
+9043,Tenis,Vestuario,317.26
+9044,Mochila Escolar,Papelaria,378.32
+9045,Jogo de Pratos,Cozinha,421.5
+9046,Caixa de Som,Eletronicos,1443.25
+9047,Air Fryer,Eletrodomesticos,1158.45
+9048,Caderno,Papelaria,53.16
+9049,Camisa,Vestuario,76.61
+9050,Tablet,Eletronicos,3866.31
+9051,Calca Jeans,Vestuario,210.09
+9052,Caderno,Papelaria,90.13
+9053,Monitor,Informatica,594.4
+9054,Mochila,Acessorios,275.32
+9055,Webcam,Informatica,775.32
+9056,Fone de Ouvido,Eletronicos,711.76
+9057,Estante,Moveis,360.45
+9058,Oculos de Sol,Acessorios,413.16
+9059,Caixa de Som,Eletronicos,1857.69
+9060,Tenis,Vestuario,469.43
+9061,Air Fryer,Eletrodomesticos,1032.47
+9062,Armario,Moveis,1029.34
+9063,Cadeira,Moveis,514.69
+9064,Geladeira,Eletrodomesticos,7895.79
+9065,Headset,Informatica,380.97
+9066,Liquidificador,Cozinha,515.06
+9067,Fone de Ouvido,Eletronicos,1437.91
+9068,Mochila,Acessorios,338.82
+9069,Camera,Eletronicos,2148.93
+9070,Aspirador de Po,Eletrodomesticos,1156.17
+9071,Cadeira,Moveis,1085.05
+9072,Cafeteira,Cozinha,900.98
+9073,Aspirador de Po,Eletrodomesticos,881.75
+9074,Camisa,Vestuario,139.18
+9075,Vestido,Vestuario,418.76
+9076,Smartphone,Eletronicos,4746.72
+9077,Mochila Escolar,Papelaria,156.34
+9078,Armario,Moveis,2913.4
+9079,Livro,Livros,174.08
+9080,Fone de Ouvido,Eletronicos,126.84
+9081,Caixa de Som,Eletronicos,691.02
+9082,Teclado,Informatica,362.73
+9083,Guarda Roupa,Moveis,4081.37
+9084,Calca Jeans,Vestuario,192.55
+9085,Caixa de Som,Eletronicos,1083.46
+9086,Caixa de Som,Eletronicos,1080.1
+9087,Smartwatch,Eletronicos,381.24
+9088,Mesa,Moveis,1502.84
+9089,Tablet,Eletronicos,3953.09
+9090,Calca Jeans,Vestuario,323.29
+9091,Microondas,Eletrodomesticos,2037.07
+9092,Televisao,Eletronicos,5390.2
+9093,Tablet,Eletronicos,1862.6
+9094,Caixa de Som,Eletronicos,1027.85
+9095,Monitor,Informatica,3119.86
+9096,Monitor,Informatica,522.42
+9097,Caixa de Som,Eletronicos,1850.08
+9098,Mesa,Moveis,999.67
+9099,Carteira,Acessorios,88.82
+9100,Smartwatch,Eletronicos,1066.24
+9101,Fone de Ouvido,Eletronicos,148.34
+9102,Microondas,Eletrodomesticos,665.15
+9103,Tenis,Vestuario,1184.29
+9104,Caderno,Papelaria,98.15
+9105,Colchao,Moveis,1744.86
+9106,Tenis,Vestuario,654.38
+9107,Monitor,Informatica,1647.41
+9108,Sofa,Moveis,4101.95
+9109,Mochila Escolar,Papelaria,145.5
+9110,Fone de Ouvido,Eletronicos,969.18
+9111,Colchao,Moveis,3984.23
+9112,Monitor,Informatica,681.99
+9113,Tablet,Eletronicos,670.45
+9114,Colchao,Moveis,3856.46
+9115,Jaqueta,Vestuario,610.21
+9116,Camisa,Vestuario,61.07
+9117,Estante,Moveis,2301.45
+9118,Cama,Moveis,1058.02
+9119,Aspirador de Po,Eletrodomesticos,604.47
+9120,Sofa,Moveis,4123.92
+9121,Jaqueta,Vestuario,644.29
+9122,Calca Jeans,Vestuario,431.92
+9123,Calca Jeans,Vestuario,382.07
+9124,Fogao,Eletrodomesticos,3701.01
+9125,Relogio,Acessorios,1300.91
+9126,Fogao,Eletrodomesticos,905.08
+9127,Mesa,Moveis,1995.3
+9128,Colchao,Moveis,2111.3
+9129,Guarda Roupa,Moveis,1658.06
+9130,Fone de Ouvido,Eletronicos,1013.97
+9131,Vestido,Vestuario,708.74
+9132,Livro,Livros,124.53
+9133,Tenis,Vestuario,814.51
+9134,Camera,Eletronicos,2063.85
+9135,Impressora,Informatica,2441.51
+9136,Impressora,Informatica,2445.11
+9137,Panela,Cozinha,738.83
+9138,Cafeteira,Cozinha,1250.11
+9139,Jogo de Pratos,Cozinha,206.03
+9140,Aspirador de Po,Eletrodomesticos,1308.41
+9141,Liquidificador,Eletrodomesticos,228.28
+9142,Webcam,Informatica,438.37
+9143,Headset,Informatica,176.32
+9144,Estante,Moveis,309.87
+9145,Aspirador de Po,Eletrodomesticos,222.38
+9146,Sofa,Moveis,3846.03
+9147,Caixa de Som,Eletronicos,1309.1
+9148,Mochila Escolar,Papelaria,59.55
+9149,Guarda Roupa,Moveis,830.83
+9150,Headset,Informatica,154.95
+9151,Guarda Roupa,Moveis,3320.61
+9152,Colchao,Moveis,956.69
+9153,Cafeteira,Cozinha,231.13
+9154,Guarda Roupa,Moveis,2637.09
+9155,Webcam,Informatica,663.46
+9156,Camisa,Vestuario,158.06
+9157,Colchao,Moveis,3942.02
+9158,Jogo de Pratos,Cozinha,130.65
+9159,Geladeira,Eletrodomesticos,6133.89
+9160,Jaqueta,Vestuario,184.27
+9161,Jaqueta,Vestuario,814.92
+9162,Liquidificador,Eletrodomesticos,469.13
+9163,Televisao,Eletronicos,4020.68
+9164,Caixa de Som,Eletronicos,1738.2
+9165,Microondas,Eletrodomesticos,445.33
+9166,Jogo de Pratos,Cozinha,111.73
+9167,Microondas,Eletrodomesticos,2073.77
+9168,Liquidificador,Eletrodomesticos,657.82
+9169,Mouse,Informatica,151.3
+9170,Panela,Cozinha,560.23
+9171,Calca Jeans,Vestuario,164.78
+9172,Air Fryer,Eletrodomesticos,1015.49
+9173,Notebook,Informatica,4883.94
+9174,Relogio,Acessorios,1590.43
+9175,Smartwatch,Eletronicos,1896.3
+9176,Camera,Eletronicos,3519.4
+9177,Notebook,Informatica,4910.99
+9178,Cadeira,Moveis,1453.8
+9179,Camera,Eletronicos,4752.84
+9180,Mochila,Acessorios,576.5
+9181,Mesa,Moveis,2525.64
+9182,Mesa,Moveis,1985.26
+9183,Panela,Cozinha,737.98
+9184,Jaqueta,Vestuario,291.23
+9185,Cafeteira,Cozinha,1417.39
+9186,Smartwatch,Eletronicos,928.71
+9187,Cadeira,Moveis,624.2
+9188,Oculos de Sol,Acessorios,634.71
+9189,Microondas,Eletrodomesticos,1370.44
+9190,Caderno,Papelaria,59.91
+9191,Mesa,Moveis,1996.78
+9192,Notebook,Informatica,6449.33
+9193,Cama,Moveis,1084.18
+9194,Mochila Escolar,Papelaria,377.0
+9195,Liquidificador,Cozinha,271.84
+9196,Fone de Ouvido,Eletronicos,505.27
+9197,Microondas,Eletrodomesticos,2285.0
+9198,Microondas,Eletrodomesticos,1952.04
+9199,Fogao,Eletrodomesticos,1800.38
+9200,Caneta,Papelaria,17.13
+9201,Cama,Moveis,3274.42
+9202,Smartphone,Eletronicos,4783.0
+9203,Liquidificador,Eletrodomesticos,101.23
+9204,Mouse,Informatica,57.22
+9205,Fogao,Eletrodomesticos,3396.7
+9206,Cadeira,Moveis,702.14
+9207,Monitor,Informatica,2456.47
+9208,Tablet,Eletronicos,2430.17
+9209,Mesa,Moveis,1684.7
+9210,Teclado,Informatica,164.87
+9211,Caderno,Papelaria,73.39
+9212,Impressora,Informatica,2203.69
+9213,Mochila Escolar,Papelaria,154.37
+9214,Caixa de Som,Eletronicos,927.59
+9215,Mochila Escolar,Papelaria,378.9
+9216,Jogo de Pratos,Cozinha,305.57
+9217,Sofa,Moveis,4623.02
+9218,Mochila,Acessorios,188.65
+9219,Fone de Ouvido,Eletronicos,1061.16
+9220,Mesa,Moveis,1137.75
+9221,Camera,Eletronicos,4873.25
+9222,Aspirador de Po,Eletrodomesticos,1507.52
+9223,Mouse,Informatica,162.66
+9224,Fogao,Eletrodomesticos,3009.34
+9225,Armario,Moveis,3424.98
+9226,Cadeira,Moveis,782.34
+9227,Smartwatch,Eletronicos,1786.46
+9228,Fone de Ouvido,Eletronicos,664.22
+9229,Caneta,Papelaria,22.66
+9230,Aspirador de Po,Eletrodomesticos,598.81
+9231,Tablet,Eletronicos,3458.02
+9232,Camera,Eletronicos,1575.58
+9233,Oculos de Sol,Acessorios,406.39
+9234,Mouse,Informatica,93.32
+9235,Webcam,Informatica,330.26
+9236,Oculos de Sol,Acessorios,509.46
+9237,Headset,Informatica,104.33
+9238,Teclado,Informatica,132.09
+9239,Televisao,Eletronicos,5870.4
+9240,Webcam,Informatica,500.39
+9241,Notebook,Informatica,5405.95
+9242,Armario,Moveis,864.25
+9243,Cadeira,Moveis,295.39
+9244,Fogao,Eletrodomesticos,3739.82
+9245,Sofa,Moveis,5861.56
+9246,Caderno,Papelaria,44.45
+9247,Cama,Moveis,805.05
+9248,Camisa,Vestuario,90.97
+9249,Tenis,Vestuario,402.06
+9250,Cama,Moveis,2423.58
+9251,Mesa,Moveis,1826.65
+9252,Monitor,Informatica,3402.05
+9253,Fone de Ouvido,Eletronicos,293.43
+9254,Notebook,Informatica,3436.95
+9255,Televisao,Eletronicos,2428.02
+9256,Cafeteira,Cozinha,594.86
+9257,Tablet,Eletronicos,3788.52
+9258,Mochila,Acessorios,279.33
+9259,Mochila Escolar,Papelaria,109.59
+9260,Microondas,Eletrodomesticos,1246.37
+9261,Livro,Livros,178.14
+9262,Colchao,Moveis,3829.83
+9263,Caderno,Papelaria,76.44
+9264,Headset,Informatica,264.08
+9265,Caixa de Som,Eletronicos,1491.03
+9266,Fone de Ouvido,Eletronicos,355.41
+9267,Televisao,Eletronicos,9413.86
+9268,Armario,Moveis,1051.89
+9269,Smartwatch,Eletronicos,354.2
+9270,Fogao,Eletrodomesticos,2659.11
+9271,Cafeteira,Cozinha,1032.92
+9272,Mesa,Moveis,2476.92
+9273,Fogao,Eletrodomesticos,3287.74
+9274,Jogo de Pratos,Cozinha,265.33
+9275,Vestido,Vestuario,166.09
+9276,Camera,Eletronicos,935.27
+9277,Monitor,Informatica,3194.89
+9278,Carteira,Acessorios,265.53
+9279,Smartphone,Eletronicos,1416.55
+9280,Notebook,Informatica,2535.54
+9281,Liquidificador,Eletrodomesticos,447.17
+9282,Mesa,Moveis,1612.01
+9283,Geladeira,Eletrodomesticos,3217.95
+9284,Caixa de Som,Eletronicos,426.54
+9285,Calca Jeans,Vestuario,339.14
+9286,Fone de Ouvido,Eletronicos,957.13
+9287,Relogio,Acessorios,1144.35
+9288,Vestido,Vestuario,723.26
+9289,Smartwatch,Eletronicos,707.56
+9290,Jaqueta,Vestuario,951.33
+9291,Microondas,Eletrodomesticos,1087.38
+9292,Geladeira,Eletrodomesticos,2582.55
+9293,Panela,Cozinha,711.25
+9294,Mesa,Moveis,472.88
+9295,Liquidificador,Cozinha,450.77
+9296,Aspirador de Po,Eletrodomesticos,665.84
+9297,Estante,Moveis,463.08
+9298,Vestido,Vestuario,641.43
+9299,Liquidificador,Cozinha,411.83
+9300,Carteira,Acessorios,286.67
+9301,Liquidificador,Cozinha,546.89
+9302,Impressora,Informatica,1246.28
+9303,Guarda Roupa,Moveis,4647.73
+9304,Smartwatch,Eletronicos,609.96
+9305,Sofa,Moveis,4190.2
+9306,Microondas,Eletrodomesticos,496.15
+9307,Colchao,Moveis,1803.63
+9308,Impressora,Informatica,1039.2
+9309,Calca Jeans,Vestuario,305.82
+9310,Camisa,Vestuario,88.2
+9311,Aspirador de Po,Eletrodomesticos,1715.87
+9312,Camisa,Vestuario,297.44
+9313,Fone de Ouvido,Eletronicos,925.97
+9314,Webcam,Informatica,111.71
+9315,Mesa,Moveis,1254.35
+9316,Mesa,Moveis,1438.58
+9317,Colchao,Moveis,2105.43
+9318,Estante,Moveis,2354.71
+9319,Liquidificador,Cozinha,475.31
+9320,Aspirador de Po,Eletrodomesticos,499.12
+9321,Liquidificador,Eletrodomesticos,674.95
+9322,Televisao,Eletronicos,9021.54
+9323,Cafeteira,Cozinha,688.61
+9324,Televisao,Eletronicos,3701.3
+9325,Camisa,Vestuario,78.63
+9326,Tenis,Vestuario,657.06
+9327,Fogao,Eletrodomesticos,2833.42
+9328,Jogo de Pratos,Cozinha,368.08
+9329,Camera,Eletronicos,2916.61
+9330,Camisa,Vestuario,279.47
+9331,Aspirador de Po,Eletrodomesticos,1572.59
+9332,Mesa,Moveis,878.88
+9333,Liquidificador,Cozinha,425.35
+9334,Camera,Eletronicos,4261.74
+9335,Calca Jeans,Vestuario,276.58
+9336,Liquidificador,Cozinha,580.25
+9337,Liquidificador,Cozinha,632.56
+9338,Impressora,Informatica,1835.15
+9339,Notebook,Informatica,3753.54
+9340,Teclado,Informatica,57.11
+9341,Microondas,Eletrodomesticos,1123.53
+9342,Carteira,Acessorios,191.29
+9343,Carteira,Acessorios,49.23
+9344,Jogo de Pratos,Cozinha,525.03
+9345,Guarda Roupa,Moveis,3955.12
+9346,Oculos de Sol,Acessorios,201.84
+9347,Air Fryer,Eletrodomesticos,448.65
+9348,Relogio,Acessorios,2238.49
+9349,Notebook,Informatica,6843.8
+9350,Notebook,Informatica,6757.33
+9351,Notebook,Informatica,5007.61
+9352,Fone de Ouvido,Eletronicos,969.37
+9353,Liquidificador,Eletrodomesticos,601.68
+9354,Mochila Escolar,Papelaria,333.25
+9355,Tablet,Eletronicos,3042.56
+9356,Relogio,Acessorios,471.38
+9357,Jaqueta,Vestuario,305.98
+9358,Cama,Moveis,3614.42
+9359,Caderno,Papelaria,57.4
+9360,Mouse,Informatica,217.24
+9361,Caixa de Som,Eletronicos,392.9
+9362,Tenis,Vestuario,723.78
+9363,Jaqueta,Vestuario,233.63
+9364,Tablet,Eletronicos,1449.84
+9365,Jogo de Pratos,Cozinha,459.34
+9366,Teclado,Informatica,87.29
+9367,Jaqueta,Vestuario,639.85
+9368,Impressora,Informatica,2260.27
+9369,Monitor,Informatica,905.39
+9370,Jogo de Pratos,Cozinha,557.94
+9371,Mochila,Acessorios,585.34
+9372,Sofa,Moveis,1474.9
+9373,Geladeira,Eletrodomesticos,8137.7
+9374,Carteira,Acessorios,132.58
+9375,Armario,Moveis,3484.92
+9376,Air Fryer,Eletrodomesticos,1009.85
+9377,Microondas,Eletrodomesticos,898.39
+9378,Panela,Cozinha,147.6
+9379,Tenis,Vestuario,424.96
+9380,Camisa,Vestuario,152.82
+9381,Impressora,Informatica,2047.42
+9382,Relogio,Acessorios,1637.33
+9383,Televisao,Eletronicos,7206.23
+9384,Carteira,Acessorios,115.7
+9385,Carteira,Acessorios,112.37
+9386,Caneta,Papelaria,6.83
+9387,Cafeteira,Cozinha,315.49
+9388,Fone de Ouvido,Eletronicos,337.93
+9389,Sofa,Moveis,4604.98
+9390,Televisao,Eletronicos,4684.17
+9391,Colchao,Moveis,816.82
+9392,Camisa,Vestuario,168.3
+9393,Calca Jeans,Vestuario,404.27
+9394,Caderno,Papelaria,18.03
+9395,Vestido,Vestuario,697.34
+9396,Calca Jeans,Vestuario,279.07
+9397,Colchao,Moveis,1956.66
+9398,Aspirador de Po,Eletrodomesticos,362.01
+9399,Smartwatch,Eletronicos,1448.37
+9400,Monitor,Informatica,2946.66
+9401,Teclado,Informatica,174.35
+9402,Teclado,Informatica,144.35
+9403,Estante,Moveis,687.87
+9404,Oculos de Sol,Acessorios,290.18
+9405,Tenis,Vestuario,893.56
+9406,Livro,Livros,80.11
+9407,Televisao,Eletronicos,4150.09
+9408,Liquidificador,Cozinha,444.91
+9409,Camera,Eletronicos,5424.29
+9410,Impressora,Informatica,2144.07
+9411,Liquidificador,Eletrodomesticos,658.15
+9412,Armario,Moveis,1845.51
+9413,Camera,Eletronicos,1867.97
+9414,Jogo de Pratos,Cozinha,537.19
+9415,Notebook,Informatica,4133.22
+9416,Calca Jeans,Vestuario,171.07
+9417,Vestido,Vestuario,557.85
+9418,Caixa de Som,Eletronicos,680.85
+9419,Carteira,Acessorios,224.87
+9420,Camera,Eletronicos,4719.44
+9421,Microondas,Eletrodomesticos,1350.17
+9422,Cama,Moveis,4932.94
+9423,Monitor,Informatica,2869.36
+9424,Tablet,Eletronicos,701.96
+9425,Calca Jeans,Vestuario,491.22
+9426,Vestido,Vestuario,125.35
+9427,Camisa,Vestuario,249.43
+9428,Tablet,Eletronicos,547.89
+9429,Colchao,Moveis,3354.63
+9430,Notebook,Informatica,8329.26
+9431,Tenis,Vestuario,742.08
+9432,Camera,Eletronicos,3632.89
+9433,Sofa,Moveis,1128.83
+9434,Mochila,Acessorios,134.2
+9435,Jaqueta,Vestuario,419.78
+9436,Fone de Ouvido,Eletronicos,1189.57
+9437,Livro,Livros,73.59
+9438,Sofa,Moveis,2300.65
+9439,Panela,Cozinha,790.47
+9440,Jogo de Pratos,Cozinha,332.57
+9441,Teclado,Informatica,399.04
+9442,Liquidificador,Cozinha,656.53
+9443,Caixa de Som,Eletronicos,1538.45
+9444,Televisao,Eletronicos,6217.11
+9445,Cadeira,Moveis,1061.07
+9446,Webcam,Informatica,742.88
+9447,Camera,Eletronicos,1755.91
+9448,Smartwatch,Eletronicos,420.48
+9449,Colchao,Moveis,1620.27
+9450,Liquidificador,Eletrodomesticos,462.59
+9451,Livro,Livros,187.66
+9452,Teclado,Informatica,94.01
+9453,Calca Jeans,Vestuario,485.45
+9454,Smartwatch,Eletronicos,2312.46
+9455,Headset,Informatica,342.07
+9456,Mochila Escolar,Papelaria,131.58
+9457,Smartphone,Eletronicos,3135.06
+9458,Tenis,Vestuario,220.8
+9459,Fone de Ouvido,Eletronicos,1457.23
+9460,Cadeira,Moveis,520.51
+9461,Caderno,Papelaria,94.6
+9462,Monitor,Informatica,1018.34
+9463,Camisa,Vestuario,256.63
+9464,Jaqueta,Vestuario,927.46
+9465,Fone de Ouvido,Eletronicos,586.87
+9466,Camisa,Vestuario,172.33
+9467,Monitor,Informatica,2657.98
+9468,Geladeira,Eletrodomesticos,4347.02
+9469,Caixa de Som,Eletronicos,692.04
+9470,Sofa,Moveis,2560.55
+9471,Relogio,Acessorios,2588.72
+9472,Aspirador de Po,Eletrodomesticos,1034.26
+9473,Cadeira,Moveis,1178.66
+9474,Livro,Livros,119.09
+9475,Smartwatch,Eletronicos,853.63
+9476,Livro,Livros,49.74
+9477,Mochila,Acessorios,331.41
+9478,Tablet,Eletronicos,2678.15
+9479,Televisao,Eletronicos,6928.56
+9480,Jogo de Pratos,Cozinha,527.73
+9481,Teclado,Informatica,82.93
+9482,Smartphone,Eletronicos,3054.28
+9483,Liquidificador,Eletrodomesticos,184.53
+9484,Sofa,Moveis,2201.42
+9485,Armario,Moveis,3235.2
+9486,Camisa,Vestuario,289.42
+9487,Monitor,Informatica,1873.47
+9488,Caixa de Som,Eletronicos,757.48
+9489,Webcam,Informatica,554.83
+9490,Cafeteira,Cozinha,1107.23
+9491,Sofa,Moveis,3981.37
+9492,Tenis,Vestuario,1152.09
+9493,Mesa,Moveis,2225.59
+9494,Air Fryer,Eletrodomesticos,881.16
+9495,Colchao,Moveis,1358.26
+9496,Fogao,Eletrodomesticos,3324.47
+9497,Estante,Moveis,1932.48
+9498,Impressora,Informatica,1284.68
+9499,Aspirador de Po,Eletrodomesticos,1716.83
+9500,Mochila Escolar,Papelaria,278.94
+9501,Oculos de Sol,Acessorios,718.49
+9502,Mochila Escolar,Papelaria,166.21
+9503,Televisao,Eletronicos,3504.09
+9504,Vestido,Vestuario,450.08
+9505,Fogao,Eletrodomesticos,2192.01
+9506,Mochila Escolar,Papelaria,91.48
+9507,Microondas,Eletrodomesticos,1909.07
+9508,Tenis,Vestuario,402.53
+9509,Caixa de Som,Eletronicos,1389.95
+9510,Cama,Moveis,4488.78
+9511,Notebook,Informatica,7818.74
+9512,Jaqueta,Vestuario,162.01
+9513,Relogio,Acessorios,719.97
+9514,Fogao,Eletrodomesticos,3052.23
+9515,Caderno,Papelaria,13.78
+9516,Televisao,Eletronicos,6372.35
+9517,Vestido,Vestuario,243.39
+9518,Jogo de Pratos,Cozinha,352.77
+9519,Tenis,Vestuario,1093.13
+9520,Impressora,Informatica,575.89
+9521,Webcam,Informatica,525.8
+9522,Vestido,Vestuario,241.92
+9523,Aspirador de Po,Eletrodomesticos,790.97
+9524,Cafeteira,Cozinha,336.23
+9525,Oculos de Sol,Acessorios,976.96
+9526,Televisao,Eletronicos,8058.98
+9527,Teclado,Informatica,355.89
+9528,Camera,Eletronicos,2372.79
+9529,Estante,Moveis,408.59
+9530,Caneta,Papelaria,6.7
+9531,Panela,Cozinha,208.41
+9532,Tenis,Vestuario,934.88
+9533,Headset,Informatica,519.88
+9534,Notebook,Informatica,7095.29
+9535,Mochila,Acessorios,501.38
+9536,Webcam,Informatica,408.8
+9537,Smartphone,Eletronicos,4290.21
+9538,Jaqueta,Vestuario,754.16
+9539,Calca Jeans,Vestuario,275.72
+9540,Liquidificador,Eletrodomesticos,145.02
+9541,Livro,Livros,84.17
+9542,Cadeira,Moveis,1237.19
+9543,Headset,Informatica,146.06
+9544,Armario,Moveis,3250.76
+9545,Caneta,Papelaria,4.18
+9546,Tablet,Eletronicos,1119.34
+9547,Sofa,Moveis,1906.41
+9548,Calca Jeans,Vestuario,141.77
+9549,Estante,Moveis,2485.56
+9550,Aspirador de Po,Eletrodomesticos,237.36
+9551,Headset,Informatica,341.44
+9552,Geladeira,Eletrodomesticos,8219.75
+9553,Fone de Ouvido,Eletronicos,121.68
+9554,Teclado,Informatica,164.94
+9555,Liquidificador,Cozinha,602.57
+9556,Caneta,Papelaria,20.34
+9557,Fone de Ouvido,Eletronicos,560.94
+9558,Impressora,Informatica,1792.61
+9559,Cadeira,Moveis,189.38
+9560,Cama,Moveis,2520.45
+9561,Guarda Roupa,Moveis,2526.39
+9562,Guarda Roupa,Moveis,1978.64
+9563,Cadeira,Moveis,1029.64
+9564,Smartphone,Eletronicos,5099.94
+9565,Cafeteira,Cozinha,1065.98
+9566,Panela,Cozinha,226.85
+9567,Smartphone,Eletronicos,7522.83
+9568,Oculos de Sol,Acessorios,294.94
+9569,Caneta,Papelaria,4.16
+9570,Cama,Moveis,1527.06
+9571,Caderno,Papelaria,84.12
+9572,Fogao,Eletrodomesticos,886.77
+9573,Oculos de Sol,Acessorios,385.17
+9574,Mesa,Moveis,854.1
+9575,Monitor,Informatica,3286.08
+9576,Mouse,Informatica,171.43
+9577,Oculos de Sol,Acessorios,876.8
+9578,Cama,Moveis,1865.88
+9579,Caneta,Papelaria,13.72
+9580,Livro,Livros,126.05
+9581,Impressora,Informatica,783.44
+9582,Caixa de Som,Eletronicos,1018.02
+9583,Sofa,Moveis,1378.46
+9584,Panela,Cozinha,67.39
+9585,Jogo de Pratos,Cozinha,223.87
+9586,Cadeira,Moveis,431.23
+9587,Armario,Moveis,3018.66
+9588,Caderno,Papelaria,56.86
+9589,Camera,Eletronicos,5527.47
+9590,Caixa de Som,Eletronicos,668.02
+9591,Caderno,Papelaria,45.86
+9592,Mouse,Informatica,272.44
+9593,Armario,Moveis,2638.17
+9594,Televisao,Eletronicos,3944.91
+9595,Vestido,Vestuario,692.23
+9596,Air Fryer,Eletrodomesticos,352.68
+9597,Tenis,Vestuario,248.36
+9598,Calca Jeans,Vestuario,485.71
+9599,Colchao,Moveis,2837.66
+9600,Oculos de Sol,Acessorios,333.65
+9601,Aspirador de Po,Eletrodomesticos,1224.99
+9602,Monitor,Informatica,2083.26
+9603,Camisa,Vestuario,178.28
+9604,Mouse,Informatica,72.97
+9605,Notebook,Informatica,3767.16
+9606,Camera,Eletronicos,1973.2
+9607,Air Fryer,Eletrodomesticos,729.78
+9608,Estante,Moveis,2482.35
+9609,Liquidificador,Cozinha,422.08
+9610,Tenis,Vestuario,1117.84
+9611,Microondas,Eletrodomesticos,457.43
+9612,Mochila,Acessorios,157.62
+9613,Liquidificador,Cozinha,130.87
+9614,Smartphone,Eletronicos,1689.46
+9615,Jogo de Pratos,Cozinha,418.88
+9616,Fone de Ouvido,Eletronicos,472.02
+9617,Jogo de Pratos,Cozinha,277.84
+9618,Tablet,Eletronicos,3813.04
+9619,Notebook,Informatica,6614.4
+9620,Mochila Escolar,Papelaria,198.24
+9621,Mochila,Acessorios,104.67
+9622,Mesa,Moveis,1731.98
+9623,Mesa,Moveis,1725.9
+9624,Headset,Informatica,190.49
+9625,Mochila Escolar,Papelaria,120.33
+9626,Camera,Eletronicos,3334.05
+9627,Fogao,Eletrodomesticos,1412.61
+9628,Armario,Moveis,599.28
+9629,Sofa,Moveis,3849.95
+9630,Cadeira,Moveis,1128.57
+9631,Cadeira,Moveis,266.42
+9632,Liquidificador,Cozinha,667.54
+9633,Mochila Escolar,Papelaria,393.17
+9634,Caixa de Som,Eletronicos,366.39
+9635,Air Fryer,Eletrodomesticos,1125.57
+9636,Microondas,Eletrodomesticos,1438.92
+9637,Cadeira,Moveis,723.99
+9638,Mochila Escolar,Papelaria,193.53
+9639,Sofa,Moveis,5214.92
+9640,Caneta,Papelaria,5.0
+9641,Caderno,Papelaria,49.35
+9642,Armario,Moveis,497.35
+9643,Caixa de Som,Eletronicos,980.1
+9644,Aspirador de Po,Eletrodomesticos,551.27
+9645,Fogao,Eletrodomesticos,2936.99
+9646,Armario,Moveis,1981.08
+9647,Armario,Moveis,1190.62
+9648,Impressora,Informatica,1274.18
+9649,Microondas,Eletrodomesticos,894.27
+9650,Caderno,Papelaria,99.73
+9651,Camisa,Vestuario,154.69
+9652,Tenis,Vestuario,575.35
+9653,Liquidificador,Eletrodomesticos,185.7
+9654,Aspirador de Po,Eletrodomesticos,753.06
+9655,Notebook,Informatica,4864.87
+9656,Fone de Ouvido,Eletronicos,191.23
+9657,Smartphone,Eletronicos,3124.55
+9658,Camera,Eletronicos,3172.82
+9659,Smartphone,Eletronicos,6596.56
+9660,Livro,Livros,141.19
+9661,Armario,Moveis,561.26
+9662,Caneta,Papelaria,2.8
+9663,Carteira,Acessorios,211.37
+9664,Tenis,Vestuario,1191.14
+9665,Jaqueta,Vestuario,825.52
+9666,Relogio,Acessorios,1393.19
+9667,Tablet,Eletronicos,1425.39
+9668,Carteira,Acessorios,124.96
+9669,Guarda Roupa,Moveis,1056.78
+9670,Caixa de Som,Eletronicos,1157.14
+9671,Carteira,Acessorios,252.8
+9672,Carteira,Acessorios,264.15
+9673,Jogo de Pratos,Cozinha,333.65
+9674,Air Fryer,Eletrodomesticos,1173.33
+9675,Aspirador de Po,Eletrodomesticos,1512.05
+9676,Calca Jeans,Vestuario,122.81
+9677,Oculos de Sol,Acessorios,164.38
+9678,Cadeira,Moveis,870.47
+9679,Jaqueta,Vestuario,447.37
+9680,Vestido,Vestuario,275.93
+9681,Cafeteira,Cozinha,542.98
+9682,Smartwatch,Eletronicos,914.79
+9683,Caixa de Som,Eletronicos,829.87
+9684,Liquidificador,Cozinha,163.39
+9685,Headset,Informatica,427.42
+9686,Air Fryer,Eletrodomesticos,899.05
+9687,Monitor,Informatica,3446.98
+9688,Headset,Informatica,476.51
+9689,Liquidificador,Cozinha,595.82
+9690,Vestido,Vestuario,680.46
+9691,Aspirador de Po,Eletrodomesticos,1090.91
+9692,Monitor,Informatica,1892.3
+9693,Camisa,Vestuario,197.32
+9694,Relogio,Acessorios,1378.22
+9695,Colchao,Moveis,3290.02
+9696,Tenis,Vestuario,739.47
+9697,Sofa,Moveis,3724.5
+9698,Caderno,Papelaria,40.34
+9699,Jaqueta,Vestuario,518.04
+9700,Carteira,Acessorios,124.95
+9701,Sofa,Moveis,5224.18
+9702,Headset,Informatica,159.3
+9703,Televisao,Eletronicos,8542.97
+9704,Armario,Moveis,2948.6
+9705,Smartphone,Eletronicos,7495.99
+9706,Jaqueta,Vestuario,475.06
+9707,Colchao,Moveis,3274.08
+9708,Smartwatch,Eletronicos,1686.47
+9709,Televisao,Eletronicos,2169.62
+9710,Estante,Moveis,975.28
+9711,Air Fryer,Eletrodomesticos,595.56
+9712,Caderno,Papelaria,30.75
+9713,Mesa,Moveis,1618.81
+9714,Webcam,Informatica,722.07
+9715,Cafeteira,Cozinha,873.14
+9716,Liquidificador,Eletrodomesticos,593.77
+9717,Headset,Informatica,91.33
+9718,Microondas,Eletrodomesticos,1825.52
+9719,Panela,Cozinha,730.46
+9720,Notebook,Informatica,3176.0
+9721,Guarda Roupa,Moveis,3447.7
+9722,Caixa de Som,Eletronicos,1818.06
+9723,Fone de Ouvido,Eletronicos,1370.65
+9724,Mouse,Informatica,177.97
+9725,Fone de Ouvido,Eletronicos,1026.58
+9726,Mesa,Moveis,2311.54
+9727,Smartwatch,Eletronicos,2455.48
+9728,Geladeira,Eletrodomesticos,8214.9
+9729,Caixa de Som,Eletronicos,348.14
+9730,Fogao,Eletrodomesticos,2067.48
+9731,Impressora,Informatica,934.05
+9732,Carteira,Acessorios,232.52
+9733,Fogao,Eletrodomesticos,1330.58
+9734,Webcam,Informatica,375.02
+9735,Jaqueta,Vestuario,910.03
+9736,Webcam,Informatica,713.43
+9737,Fone de Ouvido,Eletronicos,1429.04
+9738,Cama,Moveis,1393.21
+9739,Monitor,Informatica,2261.37
+9740,Monitor,Informatica,2429.05
+9741,Camera,Eletronicos,2194.33
+9742,Cafeteira,Cozinha,990.79
+9743,Colchao,Moveis,1620.1
+9744,Monitor,Informatica,1425.6
+9745,Microondas,Eletrodomesticos,688.66
+9746,Calca Jeans,Vestuario,473.41
+9747,Carteira,Acessorios,183.97
+9748,Air Fryer,Eletrodomesticos,587.53
+9749,Caixa de Som,Eletronicos,1999.71
+9750,Tablet,Eletronicos,2843.71
+9751,Calca Jeans,Vestuario,343.7
+9752,Caneta,Papelaria,8.18
+9753,Carteira,Acessorios,257.97
+9754,Tablet,Eletronicos,633.62
+9755,Cafeteira,Cozinha,153.97
+9756,Tenis,Vestuario,464.06
+9757,Estante,Moveis,1832.53
+9758,Jaqueta,Vestuario,355.94
+9759,Tablet,Eletronicos,2520.6
+9760,Jaqueta,Vestuario,509.32
+9761,Cama,Moveis,2051.43
+9762,Webcam,Informatica,319.92
+9763,Colchao,Moveis,3248.81
+9764,Aspirador de Po,Eletrodomesticos,452.94
+9765,Headset,Informatica,597.91
+9766,Liquidificador,Eletrodomesticos,288.78
+9767,Fone de Ouvido,Eletronicos,780.61
+9768,Webcam,Informatica,546.7
+9769,Sofa,Moveis,5384.35
+9770,Vestido,Vestuario,253.0
+9771,Armario,Moveis,1200.97
+9772,Colchao,Moveis,2422.4
+9773,Smartwatch,Eletronicos,2190.91
+9774,Notebook,Informatica,7524.98
+9775,Jaqueta,Vestuario,353.02
+9776,Mouse,Informatica,31.15
+9777,Cama,Moveis,2649.02
+9778,Caixa de Som,Eletronicos,1218.17
+9779,Tenis,Vestuario,830.64
+9780,Air Fryer,Eletrodomesticos,797.06
+9781,Cadeira,Moveis,733.84
+9782,Armario,Moveis,805.13
+9783,Tenis,Vestuario,182.05
+9784,Smartphone,Eletronicos,5584.58
+9785,Fone de Ouvido,Eletronicos,264.44
+9786,Mochila Escolar,Papelaria,300.54
+9787,Geladeira,Eletrodomesticos,5116.97
+9788,Mouse,Informatica,114.17
+9789,Colchao,Moveis,3660.21
+9790,Oculos de Sol,Acessorios,412.63
+9791,Camera,Eletronicos,2229.15
+9792,Televisao,Eletronicos,7862.69
+9793,Panela,Cozinha,787.84
+9794,Liquidificador,Cozinha,206.81
+9795,Air Fryer,Eletrodomesticos,361.89
+9796,Televisao,Eletronicos,2386.18
+9797,Tablet,Eletronicos,1829.59
+9798,Cafeteira,Cozinha,1269.11
+9799,Smartphone,Eletronicos,6409.65
+9800,Camera,Eletronicos,4703.13
+9801,Camera,Eletronicos,1537.44
+9802,Jogo de Pratos,Cozinha,316.8
+9803,Calca Jeans,Vestuario,227.5
+9804,Tenis,Vestuario,912.85
+9805,Notebook,Informatica,3792.7
+9806,Monitor,Informatica,876.92
+9807,Mouse,Informatica,72.4
+9808,Cama,Moveis,1289.78
+9809,Calca Jeans,Vestuario,235.96
+9810,Notebook,Informatica,3665.03
+9811,Carteira,Acessorios,285.53
+9812,Colchao,Moveis,2078.68
+9813,Smartphone,Eletronicos,3409.7
+9814,Fone de Ouvido,Eletronicos,251.61
+9815,Webcam,Informatica,136.53
+9816,Tablet,Eletronicos,1578.12
+9817,Estante,Moveis,398.35
+9818,Mochila,Acessorios,399.88
+9819,Cadeira,Moveis,383.37
+9820,Cadeira,Moveis,745.71
+9821,Mesa,Moveis,2838.51
+9822,Notebook,Informatica,5706.13
+9823,Oculos de Sol,Acessorios,823.47
+9824,Estante,Moveis,497.65
+9825,Aspirador de Po,Eletrodomesticos,1558.97
+9826,Cadeira,Moveis,669.94
+9827,Panela,Cozinha,799.82
+9828,Mochila,Acessorios,322.15
+9829,Vestido,Vestuario,537.18
+9830,Carteira,Acessorios,39.72
+9831,Liquidificador,Eletrodomesticos,690.18
+9832,Aspirador de Po,Eletrodomesticos,1419.5
+9833,Geladeira,Eletrodomesticos,5991.43
+9834,Camisa,Vestuario,246.96
+9835,Oculos de Sol,Acessorios,767.91
+9836,Microondas,Eletrodomesticos,1452.39
+9837,Monitor,Informatica,1073.26
+9838,Caneta,Papelaria,14.34
+9839,Televisao,Eletronicos,3244.35
+9840,Fogao,Eletrodomesticos,3515.19
+9841,Mesa,Moveis,995.14
+9842,Liquidificador,Cozinha,650.0
+9843,Mesa,Moveis,2606.76
+9844,Headset,Informatica,587.71
+9845,Tenis,Vestuario,503.42
+9846,Televisao,Eletronicos,9372.67
+9847,Televisao,Eletronicos,2337.5
+9848,Liquidificador,Eletrodomesticos,558.27
+9849,Teclado,Informatica,435.05
+9850,Webcam,Informatica,745.38
+9851,Mesa,Moveis,312.12
+9852,Monitor,Informatica,1230.5
+9853,Cadeira,Moveis,1180.03
+9854,Geladeira,Eletrodomesticos,2858.89
+9855,Mesa,Moveis,918.07
+9856,Jogo de Pratos,Cozinha,386.51
+9857,Geladeira,Eletrodomesticos,7005.93
+9858,Headset,Informatica,542.53
+9859,Guarda Roupa,Moveis,1682.13
+9860,Jogo de Pratos,Cozinha,405.53
+9861,Smartwatch,Eletronicos,1164.77
+9862,Camisa,Vestuario,199.52
+9863,Monitor,Informatica,2520.86
+9864,Mochila Escolar,Papelaria,322.74
+9865,Oculos de Sol,Acessorios,407.03
+9866,Monitor,Informatica,1394.92
+9867,Liquidificador,Cozinha,342.4
+9868,Calca Jeans,Vestuario,454.27
+9869,Cafeteira,Cozinha,736.13
+9870,Mochila Escolar,Papelaria,249.42
+9871,Liquidificador,Eletrodomesticos,391.58
+9872,Livro,Livros,144.3
+9873,Smartwatch,Eletronicos,2104.9
+9874,Cafeteira,Cozinha,106.85
+9875,Teclado,Informatica,58.63
+9876,Cama,Moveis,3983.98
+9877,Notebook,Informatica,4333.46
+9878,Vestido,Vestuario,183.8
+9879,Teclado,Informatica,122.3
+9880,Microondas,Eletrodomesticos,1272.29
+9881,Jaqueta,Vestuario,489.01
+9882,Cafeteira,Cozinha,100.65
+9883,Sofa,Moveis,5689.49
+9884,Cafeteira,Cozinha,1079.62
+9885,Relogio,Acessorios,1103.49
+9886,Oculos de Sol,Acessorios,81.2
+9887,Air Fryer,Eletrodomesticos,654.91
+9888,Air Fryer,Eletrodomesticos,665.23
+9889,Headset,Informatica,387.84
+9890,Geladeira,Eletrodomesticos,8125.26
+9891,Monitor,Informatica,1082.66
+9892,Jaqueta,Vestuario,936.12
+9893,Mochila,Acessorios,597.6
+9894,Mesa,Moveis,459.72
+9895,Relogio,Acessorios,1713.99
+9896,Sofa,Moveis,5058.02
+9897,Estante,Moveis,2263.97
+9898,Caneta,Papelaria,9.06
+9899,Monitor,Informatica,3208.92
+9900,Carteira,Acessorios,82.39
+9901,Camera,Eletronicos,2404.01
+9902,Liquidificador,Cozinha,306.72
+9903,Estante,Moveis,1530.26
+9904,Fogao,Eletrodomesticos,3365.47
+9905,Impressora,Informatica,1388.29
+9906,Microondas,Eletrodomesticos,406.62
+9907,Microondas,Eletrodomesticos,431.37
+9908,Jaqueta,Vestuario,643.09
+9909,Tenis,Vestuario,1145.82
+9910,Notebook,Informatica,7431.48
+9911,Colchao,Moveis,1789.44
+9912,Camera,Eletronicos,5093.82
+9913,Sofa,Moveis,4930.04
+9914,Monitor,Informatica,2479.16
+9915,Geladeira,Eletrodomesticos,6153.24
+9916,Camera,Eletronicos,2124.92
+9917,Guarda Roupa,Moveis,3398.57
+9918,Tablet,Eletronicos,3300.82
+9919,Colchao,Moveis,3334.67
+9920,Teclado,Informatica,435.36
+9921,Liquidificador,Eletrodomesticos,269.41
+9922,Microondas,Eletrodomesticos,1370.54
+9923,Caneta,Papelaria,6.97
+9924,Teclado,Informatica,116.38
+9925,Sofa,Moveis,4744.94
+9926,Livro,Livros,163.09
+9927,Mochila,Acessorios,527.09
+9928,Liquidificador,Eletrodomesticos,579.66
+9929,Camisa,Vestuario,260.22
+9930,Tablet,Eletronicos,3487.99
+9931,Liquidificador,Eletrodomesticos,597.78
+9932,Mouse,Informatica,189.15
+9933,Caixa de Som,Eletronicos,1208.55
+9934,Cadeira,Moveis,926.03
+9935,Mochila Escolar,Papelaria,362.13
+9936,Cafeteira,Cozinha,839.78
+9937,Relogio,Acessorios,446.46
+9938,Panela,Cozinha,111.18
+9939,Aspirador de Po,Eletrodomesticos,694.82
+9940,Geladeira,Eletrodomesticos,2991.76
+9941,Air Fryer,Eletrodomesticos,1107.36
+9942,Webcam,Informatica,692.38
+9943,Caneta,Papelaria,9.82
+9944,Jaqueta,Vestuario,216.86
+9945,Cadeira,Moveis,839.55
+9946,Televisao,Eletronicos,6414.78
+9947,Tenis,Vestuario,165.7
+9948,Sofa,Moveis,5338.45
+9949,Caneta,Papelaria,11.26
+9950,Impressora,Informatica,1718.22
+9951,Caderno,Papelaria,97.31
+9952,Jogo de Pratos,Cozinha,168.71
+9953,Mouse,Informatica,201.54
+9954,Caixa de Som,Eletronicos,449.32
+9955,Smartphone,Eletronicos,4933.62
+9956,Monitor,Informatica,1949.38
+9957,Relogio,Acessorios,1271.07
+9958,Armario,Moveis,3174.35
+9959,Jogo de Pratos,Cozinha,410.93
+9960,Guarda Roupa,Moveis,1805.88
+9961,Fogao,Eletrodomesticos,1934.83
+9962,Livro,Livros,199.16
+9963,Tablet,Eletronicos,1559.16
+9964,Guarda Roupa,Moveis,2131.55
+9965,Headset,Informatica,92.15
+9966,Panela,Cozinha,355.41
+9967,Mochila Escolar,Papelaria,51.14
+9968,Geladeira,Eletrodomesticos,6383.03
+9969,Calca Jeans,Vestuario,263.24
+9970,Aspirador de Po,Eletrodomesticos,1368.73
+9971,Oculos de Sol,Acessorios,199.64
+9972,Calca Jeans,Vestuario,310.59
+9973,Caixa de Som,Eletronicos,1494.44
+9974,Smartwatch,Eletronicos,2327.21
+9975,Cama,Moveis,3448.19
+9976,Carteira,Acessorios,109.67
+9977,Headset,Informatica,335.75
+9978,Fogao,Eletrodomesticos,1336.42
+9979,Caixa de Som,Eletronicos,670.81
+9980,Geladeira,Eletrodomesticos,4235.72
+9981,Vestido,Vestuario,108.31
+9982,Calca Jeans,Vestuario,485.43
+9983,Liquidificador,Cozinha,647.82
+9984,Carteira,Acessorios,51.78
+9985,Caneta,Papelaria,29.72
+9986,Liquidificador,Cozinha,534.6
+9987,Armario,Moveis,2937.48
+9988,Air Fryer,Eletrodomesticos,849.11
+9989,Caneta,Papelaria,11.67
+9990,Notebook,Informatica,3402.38
+9991,Headset,Informatica,459.02
+9992,Fogao,Eletrodomesticos,3356.91
+9993,Aspirador de Po,Eletrodomesticos,1163.33
+9994,Headset,Informatica,502.8
+9995,Oculos de Sol,Acessorios,236.58
+9996,Calca Jeans,Vestuario,380.55
+9997,Tenis,Vestuario,934.29
+9998,Fone de Ouvido,Eletronicos,767.44
+9999,Liquidificador,Eletrodomesticos,172.6
+10000,Microondas,Eletrodomesticos,1593.41
