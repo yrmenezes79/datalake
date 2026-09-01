@@ -19,4 +19,4 @@ df_original = con.execute(
 dt.load_as_version(0)  # Carrega o estado da Versão 0
 
 print("\n--- Dados da Versão 0 (Antes do update indevido) ---")
-display(dt.to_pandas())Ponto Alto da Aula — Time Travel & Log de Auditoria
+display(dt.to_pandas())
