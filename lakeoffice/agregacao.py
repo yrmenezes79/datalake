@@ -15,5 +15,5 @@ df_gold = con.execute(f"""
 write_deltalake(gold_path, df_gold, mode="overwrite")
 
 print("--- Camada Gold (Visão Executiva / BI) ---")
-con.execute(f"SELECT * FROM delta_scan('{gold_path}')").df()Camada Gold (Agregações de Negócio)
+con.execute(f"SELECT * FROM delta_scan('{gold_path}')").df()
 
