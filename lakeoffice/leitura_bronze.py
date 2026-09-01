@@ -11,4 +11,4 @@ silver_path = "/content/lakehouse/silver/orders"
 write_deltalake(silver_path, df_silver, mode="overwrite")
 
 print("--- Camada Silver (Dados Tratados) ---")
-con.execute(f"SELECT * FROM delta_scan('{silver_path}')").df()Camada Silver (Limpeza, Deduplicação e Qualidade)
+con.execute(f"SELECT * FROM delta_scan('{silver_path}')").df()
